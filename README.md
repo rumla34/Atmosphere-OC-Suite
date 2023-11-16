@@ -1,4 +1,4 @@
-# 极限超频插件 Atmosphere-OC-Suite
+# 极限超频插件 Atmosphere-OC-Suite-1.9.2-9118428
 
 来源
 
