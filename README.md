@@ -1,6 +1,6 @@
 # 极限超频插件Atmosphere-OC-Suite
 
-# 极限超频插件作为可选，新加进朗姆发布的大气层整合包系统稳定版压缩包中，可选覆盖替换。
+# 极限超频插件已新加进朗姆发布的大气层整合包系统稳定版中，可选覆盖替换标准超频插件。
 
 https://github.com/rumla34/Atmosphere-stable/releases
 
